@@ -1,7 +1,8 @@
-857b272e3552474bbcc9c4fbffaff72f *DESCRIPTION
-90e64695fb244eb9aab516cbda22f64e *LICENSE
+d78c596cbaf69a55815f216a9c4bbe25 *DESCRIPTION
+f9a93b1ce9be4f613add7395a3c63332 *LICENSE
 e86822cb66b9f5ef76da0255fd7591af *NAMESPACE
-27fbe8262df84162fe00a9552ce48d9e *R/image2data.R
+aed33bbfdc68df4ed48d217a24360457 *R/image2data.R
 f4117e47cac03f21a95e78106e8ea8ba *inst/extdata/pigeon.jpg
+183318b55021126c3ac066462d1ab6ce *inst/extdata/pigeon.png
 eff7ff9b8f5957c63d3d0181f875a723 *inst/extdata/success.png
 12161858e40541d57b59b1e8465be402 *man/image2data.Rd
